@@ -31,7 +31,7 @@ github_username:  dysprosium
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-kagami
+#theme: jekyll-theme-kagami
 #theme: alembic-jekyll-theme
 plugins:
   - jekyll-feed
